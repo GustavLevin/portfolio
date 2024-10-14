@@ -9,7 +9,7 @@ const CV = () => {
      
       <div className="flex justify-center mb-8">
         <img 
-          src="/CV.png" 
+          src="/portfolio/CV.png" 
           alt="My CV"
           className="w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-2/5"
         />
@@ -18,7 +18,7 @@ const CV = () => {
       
       <div className="text-center">
         <a 
-          href="/CV.pdf" 
+          href="/portfolio/CV.pdf"
           target="_blank" 
           rel="noopener noreferrer" 
           className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition duration-300"
